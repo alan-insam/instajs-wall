@@ -9,7 +9,7 @@ A sample implementation of an Instagram Wall using IG's endpoints.
 ## Note
 - This is a sample application, feel free to change and improve the code
 
-# LICENSE
+# License
 
     Copyright 2020 Alan Insam
 
