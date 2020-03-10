@@ -1,4 +1,4 @@
-## instajs-wall
+# instajs-wall
 A sample implementation of an Instagram Wall using IG's endpoints.
 
 ## How to use
